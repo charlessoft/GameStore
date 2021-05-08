@@ -1,0 +1,688 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.4f1c1 (3d27070cb163) revision 4007687'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 18363.1500; Version 1909; 64bit' Language: 'zh' Physical Memory: 16155 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/workspace/demo/GameStore
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+31939
+Successfully changed project path to: D:/workspace/demo/GameStore
+D:/workspace/demo/GameStore
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 18.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1c1 (3d27070cb163)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/workspace/demo/GameStore/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.6137
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1c1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56048
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001259 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 21.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.342 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000481 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.736 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1122 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.5 MB.
+System memory in use after: 57.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1565.
+Total: 1.619900 ms (FindLiveObjects: 0.122700 ms CreateObjectMapping: 0.042300 ms MarkObjects: 1.411400 ms  DeleteObjects: 0.042600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts
+  artifactKey: Guid(a71c75cce2e1d34489d1202e7a7f88a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(a71c75cce2e1d34489d1202e7a7f88a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95aa744f6e29740552e108c2ba2cdc5a') in 0.006563 seconds
+  Import took 0.009019 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000428 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.758 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.3 MB.
+System memory in use after: 57.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1568.
+Total: 1.340300 ms (FindLiveObjects: 0.164600 ms CreateObjectMapping: 0.058600 ms MarkObjects: 1.103200 ms  DeleteObjects: 0.013000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000337 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.664 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.3 MB.
+System memory in use after: 57.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1571.
+Total: 1.243600 ms (FindLiveObjects: 0.123400 ms CreateObjectMapping: 0.037800 ms MarkObjects: 1.069800 ms  DeleteObjects: 0.011800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 710.209208 seconds.
+  path: Assets/Gemstone/textures/1.png
+  artifactKey: Guid(7d77110b6b04d8740af77be1c55597a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/1.png using Guid(7d77110b6b04d8740af77be1c55597a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daf5dfd5a1c7ca20d4c43bb3922fee0d') in 0.092946 seconds
+  Import took 0.095613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Gemstone/textures/4.png
+  artifactKey: Guid(7d73df5239528f04993796674e08334c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/4.png using Guid(7d73df5239528f04993796674e08334c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '772caa904f8164fa9092a1a1b2d3fe30') in 0.022566 seconds
+  Import took 0.024287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Gemstone/textures/8.png
+  artifactKey: Guid(a2d1ed2d3b1742c4fb0136ccb788702b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/8.png using Guid(a2d1ed2d3b1742c4fb0136ccb788702b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8af39abb105b379eb569f200452acb55') in 0.014078 seconds
+  Import took 0.016070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Gemstone/textures/9.png
+  artifactKey: Guid(fda586fad276da4459c6f7d967da60b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/9.png using Guid(fda586fad276da4459c6f7d967da60b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaeeee607de87c931747af549d4a3499') in 0.016055 seconds
+  Import took 0.018239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Gemstone/textures/3.png
+  artifactKey: Guid(09cb0932e353dca4bb207c3148bd21b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/3.png using Guid(09cb0932e353dca4bb207c3148bd21b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '718e723c76390e9b298dbb2dd0c03738') in 0.013310 seconds
+  Import took 0.015565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Gemstone/textures/6.png
+  artifactKey: Guid(61f342ef39ed16e4c860026bc74aa973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/6.png using Guid(61f342ef39ed16e4c860026bc74aa973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd582f5b5245cba56c764cd851a20f0a4') in 0.013293 seconds
+  Import took 0.014985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Gemstone/textures/2.png
+  artifactKey: Guid(5966babc02e96d44cb218c4c7d629386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/2.png using Guid(5966babc02e96d44cb218c4c7d629386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a850f86841f486581928cd1990f3ca3') in 0.017470 seconds
+  Import took 0.019180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Gemstone/textures/5.png
+  artifactKey: Guid(b12cc81c1a37d3b47877460229928e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/5.png using Guid(b12cc81c1a37d3b47877460229928e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c83bb9a05bc4edeb08700541b690d18d') in 0.011353 seconds
+  Import took 0.013316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Gemstone/textures/7.png
+  artifactKey: Guid(43ec6edca391f1c479ef602057f42b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/7.png using Guid(43ec6edca391f1c479ef602057f42b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc1a84856fd362beabe79af484e9d39e') in 0.010492 seconds
+  Import took 0.013913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Gemstone/textures/5.png
+  artifactKey: Guid(b12cc81c1a37d3b47877460229928e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/5.png using Guid(b12cc81c1a37d3b47877460229928e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c83bb9a05bc4edeb08700541b690d18d') in 0.009641 seconds
+  Import took 0.011662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004045 seconds.
+  path: Assets/Gemstone/textures/7.png
+  artifactKey: Guid(43ec6edca391f1c479ef602057f42b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/7.png using Guid(43ec6edca391f1c479ef602057f42b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc1a84856fd362beabe79af484e9d39e') in 0.009089 seconds
+  Import took 0.010874 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000449 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.673 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.4 MB.
+System memory in use after: 60.5 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1580.
+Total: 1.354900 ms (FindLiveObjects: 0.137400 ms CreateObjectMapping: 0.030600 ms MarkObjects: 1.173200 ms  DeleteObjects: 0.012000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 141.604786 seconds.
+  path: Assets/Gemstone/textures/1.png
+  artifactKey: Guid(7d77110b6b04d8740af77be1c55597a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/1.png using Guid(7d77110b6b04d8740af77be1c55597a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf2d47119f0ef72720e2ed470adf89e9') in 0.050544 seconds
+  Import took 0.052384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Gemstone/textures/4.png
+  artifactKey: Guid(7d73df5239528f04993796674e08334c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/4.png using Guid(7d73df5239528f04993796674e08334c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1719d2ed2bda05899887b8f0115ad10') in 0.009360 seconds
+  Import took 0.011175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Gemstone/textures/8.png
+  artifactKey: Guid(a2d1ed2d3b1742c4fb0136ccb788702b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/8.png using Guid(a2d1ed2d3b1742c4fb0136ccb788702b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae76feb036119bc976cdbec0505ce186') in 0.011279 seconds
+  Import took 0.012916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Gemstone/textures/9.png
+  artifactKey: Guid(fda586fad276da4459c6f7d967da60b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/9.png using Guid(fda586fad276da4459c6f7d967da60b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a340c82c8c64033bb84816b4e09c7100') in 0.009502 seconds
+  Import took 0.011687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Gemstone/textures/3.png
+  artifactKey: Guid(09cb0932e353dca4bb207c3148bd21b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/3.png using Guid(09cb0932e353dca4bb207c3148bd21b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b6efa2c0ebe9e0afb2fbc6f143f262e') in 0.010395 seconds
+  Import took 0.012208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Gemstone/textures/6.png
+  artifactKey: Guid(61f342ef39ed16e4c860026bc74aa973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/6.png using Guid(61f342ef39ed16e4c860026bc74aa973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '468079452eb4c25da19d7e26bbff7f95') in 0.011726 seconds
+  Import took 0.013479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Gemstone/textures/2.png
+  artifactKey: Guid(5966babc02e96d44cb218c4c7d629386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/2.png using Guid(5966babc02e96d44cb218c4c7d629386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdfb9a6e33e69a9a4fa3c25908030fd2') in 0.010268 seconds
+  Import took 0.011976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Gemstone/textures/5.png
+  artifactKey: Guid(b12cc81c1a37d3b47877460229928e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/5.png using Guid(b12cc81c1a37d3b47877460229928e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38792878155d1a24a85549bfdca50f4a') in 0.009646 seconds
+  Import took 0.011650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Gemstone/textures/7.png
+  artifactKey: Guid(43ec6edca391f1c479ef602057f42b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/7.png using Guid(43ec6edca391f1c479ef602057f42b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '075baf47d702ed55e9f0c9bd66dd1f7b') in 0.010614 seconds
+  Import took 0.012544 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000363 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.638 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.5 MB.
+System memory in use after: 60.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1584.
+Total: 2.035600 ms (FindLiveObjects: 0.252300 ms CreateObjectMapping: 0.070700 ms MarkObjects: 1.700300 ms  DeleteObjects: 0.011500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000620 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.606 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.5 MB.
+System memory in use after: 60.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1587.
+Total: 1.339900 ms (FindLiveObjects: 0.146800 ms CreateObjectMapping: 0.036700 ms MarkObjects: 1.145600 ms  DeleteObjects: 0.009800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 227.023571 seconds.
+  path: Assets/Gemstone/textures/4.png
+  artifactKey: Guid(7d73df5239528f04993796674e08334c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/4.png using Guid(7d73df5239528f04993796674e08334c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e27e71e24648d2f8dc6e777b2aa60f62') in 0.041783 seconds
+  Import took 0.044797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Gemstone/textures/8.png
+  artifactKey: Guid(a2d1ed2d3b1742c4fb0136ccb788702b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/8.png using Guid(a2d1ed2d3b1742c4fb0136ccb788702b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dc3dbfd035703236eb379548814fe27') in 0.008549 seconds
+  Import took 0.010140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Gemstone/textures/9.png
+  artifactKey: Guid(fda586fad276da4459c6f7d967da60b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/9.png using Guid(fda586fad276da4459c6f7d967da60b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c458d26fb76c4eed216efe8b65f850') in 0.009839 seconds
+  Import took 0.011678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Gemstone/textures/3.png
+  artifactKey: Guid(09cb0932e353dca4bb207c3148bd21b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/3.png using Guid(09cb0932e353dca4bb207c3148bd21b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f2cacd5ed847fccb133892b2990514') in 0.009037 seconds
+  Import took 0.011132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Gemstone/textures/6.png
+  artifactKey: Guid(61f342ef39ed16e4c860026bc74aa973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/6.png using Guid(61f342ef39ed16e4c860026bc74aa973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c18ec24f734ecc36233e8cbac3daf3b8') in 0.010092 seconds
+  Import took 0.012104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Gemstone/textures/2.png
+  artifactKey: Guid(5966babc02e96d44cb218c4c7d629386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/2.png using Guid(5966babc02e96d44cb218c4c7d629386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '215ea7c2d2a9081d635e2cc536f9b92c') in 0.008902 seconds
+  Import took 0.010535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Gemstone/textures/5.png
+  artifactKey: Guid(b12cc81c1a37d3b47877460229928e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/5.png using Guid(b12cc81c1a37d3b47877460229928e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '587180ad5ebe73039e17dfe0e7c0cb25') in 0.009628 seconds
+  Import took 0.011998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Gemstone/textures/1.png
+  artifactKey: Guid(7d77110b6b04d8740af77be1c55597a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/1.png using Guid(7d77110b6b04d8740af77be1c55597a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16c121a5ad19595887be246c4cab18aa') in 0.008807 seconds
+  Import took 0.010584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Gemstone/textures/7.png
+  artifactKey: Guid(43ec6edca391f1c479ef602057f42b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/7.png using Guid(43ec6edca391f1c479ef602057f42b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bf4f835c40dc00c60e165a26c088fa6') in 0.008234 seconds
+  Import took 0.010109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004951 seconds.
+  path: Assets/Gemstone/textures/7.png
+  artifactKey: Guid(43ec6edca391f1c479ef602057f42b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/7.png using Guid(43ec6edca391f1c479ef602057f42b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bf4f835c40dc00c60e165a26c088fa6') in 0.008654 seconds
+  Import took 0.010477 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000497 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.675 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.5 MB.
+System memory in use after: 60.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1593.
+Total: 1.300600 ms (FindLiveObjects: 0.117400 ms CreateObjectMapping: 0.030700 ms MarkObjects: 1.139200 ms  DeleteObjects: 0.012200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 116.067814 seconds.
+  path: Assets/Gemstone/textures/8.png
+  artifactKey: Guid(a2d1ed2d3b1742c4fb0136ccb788702b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/8.png using Guid(a2d1ed2d3b1742c4fb0136ccb788702b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcb1f264e7fe8cadf1050f79d4c405f0') in 0.047378 seconds
+  Import took 0.049565 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000394 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.673 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.5 MB.
+System memory in use after: 60.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1599.
+Total: 1.361700 ms (FindLiveObjects: 0.124800 ms CreateObjectMapping: 0.030900 ms MarkObjects: 1.194000 ms  DeleteObjects: 0.010400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000382 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.647 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.5 MB.
+System memory in use after: 60.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1602.
+Total: 1.361300 ms (FindLiveObjects: 0.120800 ms CreateObjectMapping: 0.034200 ms MarkObjects: 1.177200 ms  DeleteObjects: 0.028400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 119.261837 seconds.
+  path: Assets/Gemstone/textures/9.png
+  artifactKey: Guid(fda586fad276da4459c6f7d967da60b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/9.png using Guid(fda586fad276da4459c6f7d967da60b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5976dfccba1c3e73b03436f038967475') in 0.046244 seconds
+  Import took 0.048229 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000451 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.634 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.5 MB.
+System memory in use after: 60.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1606.
+Total: 1.300100 ms (FindLiveObjects: 0.123600 ms CreateObjectMapping: 0.032700 ms MarkObjects: 1.131600 ms  DeleteObjects: 0.011200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 185.486702 seconds.
+  path: Assets/Gemstone/textures/background(1).bmp
+  artifactKey: Guid(cc4476a6baac57047844b48895816092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/background(1).bmp using Guid(cc4476a6baac57047844b48895816092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f510576e697e9e8ea0e48ac696272f6d') in 0.037474 seconds
+  Import took 0.039640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Gemstone/textures/background.png
+  artifactKey: Guid(2b74cd30f2c4cfb4696af2a43a1f9df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/background.png using Guid(2b74cd30f2c4cfb4696af2a43a1f9df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a387771434a53fae5578170e13ebcfd') in 0.011281 seconds
+  Import took 0.013118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Gemstone/textures/background1.bmp
+  artifactKey: Guid(972b2776e6ca3b646a4cef3cb89b5899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/background1.bmp using Guid(972b2776e6ca3b646a4cef3cb89b5899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f83f7aaaccd6a068aa51e544161c635') in 0.014013 seconds
+  Import took 0.015747 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000453 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.630 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.5 MB.
+System memory in use after: 60.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1610.
+Total: 1.350800 ms (FindLiveObjects: 0.121900 ms CreateObjectMapping: 0.033000 ms MarkObjects: 1.183900 ms  DeleteObjects: 0.010800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.673542 seconds.
+  path: Assets/Gemstone/textures/background.bmp
+  artifactKey: Guid(18a660a3eb634aa4482227923aeeb116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/background.bmp using Guid(18a660a3eb634aa4482227923aeeb116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3501c85d6281cfebf40d4168642372f8') in 0.027395 seconds
+  Import took 0.029091 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000380 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.616 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.5 MB.
+System memory in use after: 60.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1613.
+Total: 2.065800 ms (FindLiveObjects: 0.209400 ms CreateObjectMapping: 0.030000 ms MarkObjects: 1.798200 ms  DeleteObjects: 0.027300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000409 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.632 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.5 MB.
+System memory in use after: 60.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1616.
+Total: 1.415800 ms (FindLiveObjects: 0.134600 ms CreateObjectMapping: 0.036900 ms MarkObjects: 1.233100 ms  DeleteObjects: 0.010500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.424728 seconds.
+  path: Assets/Gemstone/textures/background.bmp
+  artifactKey: Guid(18a660a3eb634aa4482227923aeeb116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/background.bmp using Guid(18a660a3eb634aa4482227923aeeb116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79a24f74d65e5d13dba54fa6043b21f1') in 0.067597 seconds
+  Import took 0.071130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 94.223481 seconds.
+  path: Assets/Gemstone/textures/background.bmp
+  artifactKey: Guid(18a660a3eb634aa4482227923aeeb116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/background.bmp using Guid(18a660a3eb634aa4482227923aeeb116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4c24cba3bf79090cb499757ea87f42a') in 0.030529 seconds
+  Import took 0.032500 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000463 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.677 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1622.
+Total: 1.365600 ms (FindLiveObjects: 0.138300 ms CreateObjectMapping: 0.031200 ms MarkObjects: 1.183900 ms  DeleteObjects: 0.010900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 870.013180 seconds.
+  path: Assets/Gemstone/textures/background.png
+  artifactKey: Guid(2b74cd30f2c4cfb4696af2a43a1f9df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gemstone/textures/background.png using Guid(2b74cd30f2c4cfb4696af2a43a1f9df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13cee7000c25235b8887e951ccee62b3') in 0.050455 seconds
+  Import took 0.052916 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000295 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.632 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1626.
+Total: 1.301000 ms (FindLiveObjects: 0.123000 ms CreateObjectMapping: 0.033300 ms MarkObjects: 1.134100 ms  DeleteObjects: 0.009900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000420 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.710 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1629.
+Total: 1.809300 ms (FindLiveObjects: 0.242300 ms CreateObjectMapping: 0.060100 ms MarkObjects: 1.494100 ms  DeleteObjects: 0.011800 ms)
+
